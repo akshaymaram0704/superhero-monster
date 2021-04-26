@@ -8,7 +8,7 @@ var box1, box2, box3,box4;
 var hero,monster,rope,ground;
 
 function preload() {
-  bg = loadImage("gamingbackground2.png");
+  bg = loadImage("gamingbackground1.jpg");
 }
 
 function setup() {
